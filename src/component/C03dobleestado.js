@@ -1,6 +1,6 @@
 import React, {useState, Fragment}from 'react';
 
-const Dobleestado = () =>{
+const C03Dobleestado = () =>{
 
   const[valor, setValor] = useState(0);
   const[numero, setNumero] = useState(0);
@@ -22,4 +22,4 @@ const Dobleestado = () =>{
   );
 }
 
-export default Dobleestado;
+export default C03Dobleestado;
